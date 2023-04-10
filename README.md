@@ -47,4 +47,8 @@ Bạn được yêu cầu thiết lập 1 kiến trúc cho hệ thống Quản l
 
 ## Estimate Cost Pricing:
 - https://calculator.aws/#/estimate?id=c09291fe150ff7cd966aa2ed3428d0c80260d288
-[Estimate Pricing](./My%20Demo%20Project.csv)
+- [Estimate Pricing](./My%20Demo%20Project.csv)
+
+### Architect
+
+![Sytem](./system.png)
